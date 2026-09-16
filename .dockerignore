@@ -1,0 +1,7 @@
+.git
+.env
+node_modules
+storage/app/data/*.sqlite
+storage/logs/*
+vendor
+bootstrap/cache/*.php
